@@ -1,0 +1,88 @@
+body{ 
+    background-image: url("../images/background1.jpg");
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+        
+    
+    
+}
+#display{
+  
+  
+    background-color: aliceblue;
+    border-color: brown;
+    margin-right: 500px;
+    margin-left: 100px;
+    margin-top: 30px;
+    display: none;
+}
+
+#cheatsheet{
+    background-color: aliceblue;
+    margin-right: 550px;
+    margin-left: 200px;
+    display: none;
+   
+    
+}
+img{margin-left: 100px;
+}
+button{ background-color: #c18282;
+}
+#output{margin-left: 100px;
+}
+#input {margin-left: 100px;
+}
+
+#startScreen{
+    
+    background-image: url(../images/startscreen.jpg);
+    border-color: brown;
+    margin-right: 550px;
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 1000px;
+    height: 600px;
+}
+#play12{
+    font-size: 30px;
+    background-color: coral;
+    border-style: solid;
+    margin-top: 430px;
+    margin-left: 500px;
+}
+#palyScreen{
+
+background-repeat: no-repeat;
+margin: auto;
+display: none;}
+imageScreen{
+    display: block;
+    
+}
+#header{
+    color:#265007;
+ 
+        
+}
+#endgame{display: none;
+    background-color: #954123;
+     border-color: coral;
+    margin-right: 550px;
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 1000px;
+    height: 500px;
+    border-radius: 50px;
+}
+#gameOver{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: 70px;
+}
+#helpOut{ background-color: aliceblue;
+    margin-right: 550px;
+    margin-left: 200px;
+    display: none;}
